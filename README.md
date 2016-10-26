@@ -1,3 +1,3 @@
-# openwrt-chinabanned
+# seedbox-JT
 
-openwrt里面的“域名列表”中china-banned列表，自己添加了几个域名，不断更新中。
+一键seedbox脚本，几乎包含一切你需要的seedbox程式。
